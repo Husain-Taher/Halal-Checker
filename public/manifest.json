@@ -1,0 +1,16 @@
+{
+  "short_name": "HalalScan",
+  "name": "HalalScan - US Grocery Screener",
+  "description": "3-Tier Halal & Haram food scanner with barcode scanning and AI semantic auditing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
